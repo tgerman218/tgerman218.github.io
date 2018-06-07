@@ -13,5 +13,5 @@
   * P1 Project Page
   * P2 Project page
   * P3 Project Page
-  * P4 Project Page
+  * P4 Project Page [GitHub](https://uo-cit.github.io/project-4-tgerman218/)
   * P5 Project Page
