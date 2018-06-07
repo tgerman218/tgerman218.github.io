@@ -12,7 +12,7 @@
 ## My CIT Projects
 * CIT 281 Projects
   * P1 Project Page
-  * P2 Project page [GitHub](https://uo-cit.github.io/project-2-tgerman218/)
-  * P3 Project Page [GitHub](https://uo-cit.github.io/project-3-tgerman218/)
-  * P4 Project Page [GitHub](https://uo-cit.github.io/project-4-tgerman218/)
+  * [P2 Project Page](https://uo-cit.github.io/project-2-tgerman218/) (Github)
+  * [P3 Project Page](https://uo-cit.github.io/project-3-tgerman218/) (Github)
+  * [P4 Project Page](https://uo-cit.github.io/project-4-tgerman218/) (Github)
   * P5 Project Page
