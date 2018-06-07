@@ -6,7 +6,8 @@
 ##### We are using [GitHub Education](https://education.github.com/) to host student repos. Throughout CIT 281 we have learned how to use and further knowledge with Markdown, Javascript, JQuery, JSON, Ajax, and more.
 
 ## UO CIT Minor
-##### This portfolio page was designed as part of the requirements for CIT 281 as a part of the Computer Information Technology (CIT) minor.
+##### This portfolio page was designed as part of the requirements for CIT 281 as a part of the Computer Information Technology (CIT) minor. We have worked on Projects implementing different programming methods. The CIT minor information can be found here:
+[CIT Minor](https://cs.uoregon.edu/undergraduate/cit-minor)
 
 ## My CIT Projects
 * CIT 281 Projects
