@@ -12,6 +12,6 @@
 * CIT 281 Projects
   * P1 Project Page
   * P2 Project page [GitHub](https://uo-cit.github.io/project-2-tgerman218/)
-  * P3 Project Page
+  * P3 Project Page [GitHub](https://uo-cit.github.io/project-3-tgerman218/)
   * P4 Project Page [GitHub](https://uo-cit.github.io/project-4-tgerman218/)
   * P5 Project Page
